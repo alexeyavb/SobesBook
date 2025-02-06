@@ -25,6 +25,9 @@ https://habr.com/ru/articles/879902/#comment_27888894
 <img src=./img/3_5.jpg>
 
 Правильная позиция. Welcome! Я подозреваю, что в этот раз видимо блэкэнд.</img>
+
+one hour later....
+## - У Вас не раскрыта тема ширины стэка!
 </p>
 
 ### Prerequisites
