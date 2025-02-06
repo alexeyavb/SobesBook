@@ -45,7 +45,7 @@ https://habr.com/ru/articles/879902/#comment_27888744
 ```
 
 ### Тестовые задания
-<img src=./img/programmirovai.png></img>
+<img src=./img/prog.png></img>
 
 ### На сеньорскую позицию впервые в 2025 году мне предложили делать тестовые задания.
 
